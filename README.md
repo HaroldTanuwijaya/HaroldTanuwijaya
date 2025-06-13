@@ -1,16 +1,42 @@
 ## Hi there 👋
+# 👨‍💻 Harold Tanuwijaya — Aspiring Full-Stack Developer 🚀
 
-<!--
-**HaroldTanuwijaya/HaroldTanuwijaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Undergraduate | 💻 Web Dev • Mobile Dev | 🚀 Always Leveling Up
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+🖥️ **Frontend**  
+⚡ HTML | CSS | JavaScript
+
+🗄️ **Backend**  
+🐍 Python (Flask) | 🐘 PHP (Laravel) | ☕ Java | 💻 C
+
+🛢️ **Databases**  
+🗃️ MySQL | 🍃 MongoDB
+
+📱 **Mobile**  
+📱 Android (Java)
+
+🛠️ **Tools & Others**  
+⚙️ Git | 🐳 Docker | ☁️ REST APIs
+
+---
+
+## 🎯 Current Focus
+
+- 🌐 Building modern web apps
+- 🤖 Exploring AI-powered apps & chatbots
+- 🎨 Polishing UI/UX skills
+- 🔬 Always learning & experimenting
+
+---
+
+## 🌐 Let's Connect!
+
+📧 haroldtanu@gmail.com  
+
+---
+
+_"Code Hard, Stay Humble."_ 🔥
